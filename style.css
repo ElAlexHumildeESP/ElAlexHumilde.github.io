@@ -1,0 +1,32 @@
+*{
+ margin: 0;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+}
+.header_div_one{
+    flex: 7;
+}
+.header_div_two{
+    display: flex;
+    flex: 8;
+    align-items: center;
+}
+ul{
+    display: flex;
+}
+.logo{
+    margin-left: 30px;
+}
+ul{
+    list-style: none;
+}
+li{
+    margin-right: 30px;
+}
+.header_div_three img{
+margin-left: 15px;
+}
